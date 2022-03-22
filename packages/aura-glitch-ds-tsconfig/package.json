@@ -1,5 +1,5 @@
 {
-  "name": "@acme/tsconfig",
+  "name": "@aura-glitch/ds-tsconfig",
   "version": "0.0.0",
   "license": "MIT",
   "main": "index.js",

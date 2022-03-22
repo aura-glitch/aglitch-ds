@@ -1,10 +1,16 @@
 {
-  "exclude": ["node_modules"],
-  "extends": "@acme/tsconfig/nextjs.json",
+  "exclude": [
+    "node_modules"
+  ],
+  "extends": "@aura-glitch/ds-tsconfig/nextjs.json",
   "compilerOptions": {
+    "jsx": "preserve",
     "rootDir": "src",
     "outDir": "dist",
     "incremental": true
   },
-  "include": ["src", "next-env.d.ts"]
+  "include": [
+    "src",
+    "next-env.d.ts"
+  ]
 }
