@@ -9,7 +9,7 @@
     "nextjs.json",
     "react-library.json"
   ],
-  "publishConfig": {
-    "access": "public"
+ "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
 }

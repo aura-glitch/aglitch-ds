@@ -20,5 +20,9 @@
     "prettier": "^2.5.1",
     "turbo": "latest"
   },
-  "name": "aglitch-ds"
+  "name": "aglitch-ds",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "version": "0.0.1"
 }
