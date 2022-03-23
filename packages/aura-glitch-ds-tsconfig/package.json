@@ -1,6 +1,6 @@
 {
   "name": "@aura-glitch/ds-tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "index.js",
   "files": [
@@ -9,7 +9,7 @@
     "nextjs.json",
     "react-library.json"
   ],
- "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

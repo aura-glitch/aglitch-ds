@@ -1,6 +1,6 @@
 {
   "name": "eslint-preset-aura-glitch-ds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -9,6 +9,6 @@
     "eslint-plugin-react": "7.28.0"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
