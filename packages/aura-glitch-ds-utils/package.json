@@ -26,5 +26,8 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "ssh://git@github.com/aura-glitch/agltich-ds.git"
   }
 }

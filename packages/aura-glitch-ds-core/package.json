@@ -1,5 +1,8 @@
 {
   "name": "@aura-glitch/ds-core",
+  "repository": {
+    "url": "ssh://git@github.com/aura-glitch/agltich-ds.git"
+  },
   "version": "1.0.4",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -27,5 +30,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "51b6f2a8c2c7d6f192395f217b1bbbac4b9d80cc"
+  "gitHead": "1c75eec0d39ea3c0093205c9f68f28e2cafebd72"
 }
