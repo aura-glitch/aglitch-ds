@@ -1,6 +1,6 @@
 {
   "name": "@aura-glitch/ds-core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -16,10 +16,10 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@aura-glitch/ds-tsconfig": "*",
-    "eslint-preset-acme": "*",
+    "@aura-glitch/ds-tsconfig": "^1.0.0",
     "@types/react": "^17.0.13",
     "@types/react-dom": "^17.0.8",
+    "eslint-preset-acme": "*",
     "react": "^17.0.2",
     "tsup": "^5.10.1",
     "typescript": "^4.5.3"
