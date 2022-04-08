@@ -22,6 +22,8 @@
     "@aura-glitch/ds-tsconfig": "^1.0.6",
     "@types/react": "^17.0.13",
     "@types/react-dom": "^17.0.8",
+    "@types/video.js": "^7.3.33",
+    "video.js": "^7.18.1",
     "eslint-preset-acme": "*",
     "react": "^17.0.2",
     "tsup": "^5.10.1",
