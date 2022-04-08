@@ -3,7 +3,7 @@
   "repository": {
     "url": "ssh://git@github.com/aura-glitch/aglitch-ds.git"
   },
-  "version": "1.0.6",
+  "version": "1.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -23,11 +23,11 @@
     "@types/react": "^17.0.13",
     "@types/react-dom": "^17.0.8",
     "@types/video.js": "^7.3.33",
-    "video.js": "^7.18.1",
     "eslint-preset-acme": "*",
     "react": "^17.0.2",
     "tsup": "^5.10.1",
-    "typescript": "^4.5.3"
+    "typescript": "^4.5.3",
+    "video.js": "^7.18.1"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
