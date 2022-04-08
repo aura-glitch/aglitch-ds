@@ -4,7 +4,6 @@ import "video.js/dist/video-js.css";
 export type VideoJSProps = {
     options: any;
     onReady: (player: videojs.Player) => void;
-    ref: React.RefObject<HTMLVideoElement>;
 }
 
 export const VideoJS = ( props: VideoJSProps ) => {
