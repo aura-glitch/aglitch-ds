@@ -7,6 +7,8 @@ export type VideoJSProps = {
     onReady: (player: videojs.Player) => void;
 }
 
+export const defaultCSS = 'video.js/dist/video-js.css';
+
 export const VideoJS = ( props: VideoJSProps ) => {
 
   const videoRef = React.useRef(null);
